@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
+    "url": "https://github.com/hiteshmhatre25/timestamp-microservice.git"
   },
   "bugs": {
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
+    "url": "https://github.com/hiteshmhatre25/timestamp-microservice/issues"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "homepage": "https://github.com/hiteshmhatre25/timestamp-microservice#readme",
+  "author": "Hitesh Mhatre",
   "keywords": [
     "node",
     "express",
